@@ -1,1 +1,18 @@
-jjff
+* {
+    box-sizing: border-box;
+  }
+  .header {
+
+  }
+
+  .main {
+
+  }
+
+  .footer {
+
+  }
+
+  .photo {
+    border-radius: 100px;
+  }
